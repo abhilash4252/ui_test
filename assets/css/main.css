@@ -74,3 +74,45 @@ footer{
     margin: 0;
 }
 
+.reach-us-item div {
+  display: inline-block;
+  padding-left: 10px;
+  vertical-align: top;
+}
+
+.reach-us-item div h5 {
+  padding-bottom: 0px;
+  margin-bottom: 2px;
+}
+
+.reach-us-item {
+  padding-bottom: 10px;
+}
+
+.lead_to_payout_item {
+  text-align: center;
+  vertical-align: top;
+  display: inline-block;
+  width: 18%;
+}
+
+.lead_to_payout_item img {
+  height: 100px;
+}
+
+.lead_to_payout_block {
+  background-color: #9b9b9b;
+  min-height: 85px;
+  padding: 10px;
+}
+
+.lead_to_payout_arrow i{
+  vertical-align: middle;
+  width: 1%;
+}
+
+.lead_to_payout_arrow {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 50px;
+}
